@@ -16,11 +16,20 @@ Este repositório contém a implementação de um modelo BiLSTM-CRF para tarefas
 
 ## Dependências
 
+O projeto foi desenvolvido e testado com as seguintes versões de pacotes:
+
+- `python==3.6.13`
+- `tensorflow==2.10.0`
+- `tensorflow_addons==0.19.0`
+- `scikit-learn==1.0.2`
+- `pandas==1.3.5`
+  
 Para instalar as dependências necessárias, execute o seguinte comando:
 
 ```bash
 pip install -r requirements.txt
 ```
+
 
 ## Treinamento do Modelo
 
