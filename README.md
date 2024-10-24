@@ -27,12 +27,13 @@ pip install -r requirements.txt
 Para treinar o modelo, use o arquivo `train_model.py`. Você pode especificar os dados de treinamento e vocabulário, além dos hiperparâmetros diretamente pela linha de comando. Exemplo:
 
 ```bash
-python train_model.py --data_path data/df_train.csv --output_dir data/vocab --max_len 512 --lstm_dropout 0.1 --max_epochs 10 --learning_rate 0.01 --embedding_dim 300 --lstm_units 50 --batch_size 8
+python train_model.py --input_data_path data/df_train.csv --output_data_dir data/vocab --output_model_dir model_path --max_len 512 --lstm_dropout 0.1 --max_epochs 10 --learning_rate 0.01 --embedding_dim 300 --lstm_units 50 --batch_size 8
 ```
 
 ### Parâmetros:
-- `--data_path`: Caminho para o arquivo de dados CSV de treinamento.
-- `--output_dir`: Diretório para salvar os arquivos de vocabulário.
+- `--input_data_path`: Caminho para o arquivo de dados CSV de treinamento.
+- `--output_data_dir`: Diretório para salvar os arquivos de vocabulário.
+- `output_model_dir`: Diretório para salvar o modelo
 - `--max_len`: Tamanho máximo das sequências.
 - `--lstm_dropout`: Taxa de dropout na LSTM.
 - `--max_epochs`: Número de épocas de treinamento.
@@ -43,10 +44,10 @@ python train_model.py --data_path data/df_train.csv --output_dir data/vocab --ma
 
 ## Avaliação do Modelo
 
-O arquivo `evaluate.py` permite a avaliação do modelo treinado em um conjunto de dados de teste. Ele carrega o modelo salvo e os arquivos de vocabulário e realiza previsões. Exemplo:
+O arquivo `evaluate_model.py` permite a avaliação do modelo treinado em um conjunto de dados de teste. Ele carrega o modelo salvo e os arquivos de vocabulário e realiza previsões. Exemplo:
 
 ```bash
-python evaluate.py --data_path data/df_test.csv --vocab_dir data --model_path models/model_00 --max_sentence 512
+python evaluate_model.py --data_path data/df_test.csv --vocab_dir data --model_path models/model_00 --max_sentence 512
 ```
 
 ### Parâmetros:
