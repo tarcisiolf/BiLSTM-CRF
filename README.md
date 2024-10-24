@@ -1,5 +1,3 @@
-Aqui está um exemplo de como o README para o seu repositório pode ser ajustado de acordo com a estrutura e arquivos mostrados na imagem:
-
 ---
 
 # BiLSTM-CRF Named Entity Recognition
