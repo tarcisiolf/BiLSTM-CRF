@@ -1,0 +1,16 @@
+{
+    "I-LOC": 1,
+    "I-ATE": 2,
+    "O": 3,
+    "B-LOC": 4,
+    "I-TAM": 5,
+    "I-ACH": 6,
+    "B-TAM": 7,
+    "B-BOR": 8,
+    "B-ACH": 9,
+    "I-CAL": 10,
+    "B-CAL": 11,
+    "B-ATE": 12,
+    "I-BOR": 13,
+    "--PADDING--": 0
+}
