@@ -5,8 +5,6 @@ def read_csv(filename):
     df = pd.read_csv(filename)
     return df
 
-
-
 # Função de mapeamento com base nas entidades e palavras do relatório
 def extract_info_from_report(report_df):
     nodule_data = {
@@ -166,8 +164,10 @@ def convert_diameter_to_mm(value):
         # Se houver "x", significa que é uma dimensão múltipla
         if "x" in value:
             dimention = [float(v.strip()) * 10 for v in value.split("x")]
-            avg_diameter = sum(dimention) / len(dimention)
-            return f"{avg_diameter:.1f}"
+            #avg_diameter = sum(dimention) / len(dimention)
+            min_diameter = min(dimention)
+            #return f"{avg_diameter:.1f}"
+            return f"{min_diameter:.1f}"
         else:
             return f"{float(value) * 10:.1f}"
     elif "mm" in value:
@@ -176,8 +176,10 @@ def convert_diameter_to_mm(value):
         # Se já estiver em mm, converte para float e mantém
         if "x" in value:
             dimention = [float(v.strip()) for v in value.split("x")]
-            avg_diameter = sum(dimention) / len(dimention)
-            return f"{avg_diameter:.1f}"
+            #avg_diameter = sum(dimention) / len(dimention)
+            min_diameter = min(dimention)
+            #return f"{avg_diameter:.1f}"
+            return f"{min_diameter:.1f}"
         else:
             return f"{float(value):.1f}"
     else:
