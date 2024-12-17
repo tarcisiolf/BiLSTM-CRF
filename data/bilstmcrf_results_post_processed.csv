@@ -1,35 +1,35 @@
 Nódulo,O nódulo é sólido?,"O nódulo é em partes moles, semissólido ou subsólido?",O nódulo é em vidro fosco?,"O nódulo é espiculado, irregular ou mal definido?",O nódulo é calcificado?,Localização do nódulo,Tamanho do nódulo (mm)
 report_00,True,False,False,False,False,Lobo superior direito,5.0
-report_01,False,False,False,False,False,Lobo inferior esquerdo,13.8
+report_01,False,False,False,False,False,Lobo inferior esquerdo,11.5
 report_02,False,False,False,False,False,Lobo superior direito,6.3
-report_03,False,False,False,False,True,Lobo superior direito,4.7
+report_03,False,False,False,False,True,Lobo superior direito,4.6
 report_04,False,False,False,False,True,Lobo superior direito,3.1
-report_05,False,False,False,False,True,Lobo inferior direito,3.0
+report_05,False,False,False,False,True,Lobo inferior direito,2.8
 report_06,False,False,False,False,False,Lobo superior direito,5.0
 report_07,False,False,False,False,True,Lobo inferior direito,3.0
-report_08,False,False,False,False,True,False,6.8
-report_09,False,False,False,False,True,Lobo inferior esquerdo,2.4
+report_08,False,False,False,False,True,False,5.2
+report_09,False,False,False,False,True,Lobo inferior esquerdo,2.3
 report_10,False,False,False,False,True,Lobo médio direito,3.5
 report_11,False,False,False,False,False,Lobo inferior esquerdo,False
 report_12,False,False,False,False,True,Lobo inferior direito,6.0
 report_13,False,False,False,False,True,Lobo superior direito,6.0
-report_14,False,False,False,False,True,Lobo inferior esquerdo,2.4
+report_14,False,False,False,False,True,Lobo inferior esquerdo,2.3
 report_15,False,False,False,False,True,Lobo inferior direito,5.0
 report_16,False,False,False,False,True,Lobo inferior direito,7.0
 report_17,False,False,False,False,True,Lobo inferior esquerdo,False
-report_18,False,False,False,False,False,Lobo médio direito,10.5
-report_19,False,False,False,False,True,Lobo inferior direito,2.4
+report_18,False,False,False,False,False,Lobo médio direito,10.0
+report_19,False,False,False,False,True,Lobo inferior direito,2.2
 report_20,False,False,False,False,True,Lobo inferior direito,2.0
-report_21,False,False,False,False,True,Lobo inferior direito,5.5
-report_22,False,False,False,False,True,Lobo superior direito,3.5
+report_21,False,False,False,False,True,Lobo inferior direito,3.4
+report_22,False,False,False,False,True,Lobo superior direito,3.4
 report_23,False,False,False,False,True,Outros,3.0
-report_24,True,False,False,False,False,Lobo superior direito,4.0
+report_24,True,False,False,False,False,Lobo superior direito,3.0
 report_25,False,False,False,False,True,Lobo inferior esquerdo,3.0
 report_26,False,False,False,False,False,Lobo inferior esquerdo,4.0
 report_27,False,False,False,False,True,Lobo superior esquerdo,5.0
 report_28,False,False,False,False,False,Outros,False
-report_29,True,False,False,False,False,Lobo inferior direito,7.5
-report_30,True,False,False,False,False,False,15.0
+report_29,True,False,False,False,False,Lobo inferior direito,6.0
+report_30,True,False,False,False,False,False,14.0
 report_31,False,False,False,False,True,Lobo inferior direito,3.0
 report_32,False,True,False,False,False,Lobo inferior esquerdo,3.0
 report_33,False,False,False,False,True,Lobo inferior direito,5.0
@@ -38,63 +38,63 @@ report_35,False,False,False,False,True,Lobo inferior direito,4.0
 report_36,False,False,False,False,True,Lobo inferior esquerdo,5.0
 report_37,True,False,False,False,True,Lobo médio direito,3.0
 report_38,False,False,False,False,False,False,False
-report_39,False,False,False,False,True,Lobo superior esquerdo,2.8
-report_40,False,False,False,False,False,Lobo superior direito,12.0
-report_41,False,False,False,False,True,Lobo superior direito,3.3
-report_42,False,False,False,False,True,lobo superior esquerdo,3.6
+report_39,False,False,False,False,True,Lobo superior esquerdo,2.5
+report_40,False,False,False,False,False,Lobo superior direito,11.0
+report_41,False,False,False,False,True,Lobo superior direito,3.0
+report_42,False,False,False,False,True,lobo superior esquerdo,3.5
 report_43,False,False,False,False,False,Lobo inferior direito,False
 report_44,False,False,False,False,True,Outros,4.0
-report_45,True,False,False,False,False,Lobo superior direito,2.5
+report_45,True,False,False,False,False,Lobo superior direito,2.0
 report_46,False,False,False,False,True,Lobo inferior direito,5.0
 report_47,False,False,False,False,True,Lobo inferior esquerdo,6.0
 report_48,False,False,False,False,True,Lobo inferior direito,6.0
-report_49,False,False,False,False,True,Lobo superior direito,8.8
+report_49,False,False,False,False,True,Lobo superior direito,7.7
 report_50,False,False,False,False,True,Lobo inferior direito,6.0
 report_51,True,False,False,False,False,Lobo médio direito,False
-report_52,False,False,False,False,True,Lobo superior esquerdo,2.5
-report_53,False,False,False,False,True,Lobo inferior esquerdo,9.5
-report_54,False,False,False,False,False,Lobo superior direito,4.5
-report_55,False,False,False,False,True,Lobo inferior esquerdo,4.3
+report_52,False,False,False,False,True,Lobo superior esquerdo,2.4
+report_53,False,False,False,False,True,Lobo inferior esquerdo,9.0
+report_54,False,False,False,False,False,Lobo superior direito,4.0
+report_55,False,False,False,False,True,Lobo inferior esquerdo,3.6
 report_56,False,False,False,False,True,Outros,7.0
 report_57,False,False,False,False,False,Outros,3.0
 report_58,False,False,False,False,True,Outros,4.0
-report_59,False,False,False,False,True,Lobo superior esquerdo,2.9
-report_60,False,False,False,False,True,Lobo superior direito,3.7
+report_59,False,False,False,False,True,Lobo superior esquerdo,2.7
+report_60,False,False,False,False,True,Lobo superior direito,3.4
 report_61,False,False,False,False,False,Lobo superior direito,8.0
 report_62,False,False,False,False,False,Lobo inferior direito,6.0
 report_63,False,False,False,False,False,Lobo médio direito,5.0
-report_64,False,False,False,False,True,Lobo inferior direito,4.5
-report_65,False,False,False,False,True,Lobo superior esquerdo,6.7
+report_64,False,False,False,False,True,Lobo inferior direito,4.1
+report_65,False,False,False,False,True,Lobo superior esquerdo,5.9
 report_66,False,False,False,False,False,Lobo inferior direito,3.0
 report_67,True,False,False,False,False,Lobo superior direito,4.0
 report_68,False,False,False,False,False,Lobo superior direito,4.0
-report_69,False,False,False,False,False,Lobo superior direito,6.5
+report_69,False,False,False,False,False,Lobo superior direito,5.0
 report_70,False,False,False,False,True,Lobo superior direito,4.0
 report_71,False,False,False,False,False,Lobo inferior direito,3.0
-report_72,False,False,False,False,True,Lobo superior esquerdo,2.1
-report_73,False,False,False,False,True,Lobo inferior direito,3.7
+report_72,False,False,False,False,True,Lobo superior esquerdo,1.4
+report_73,False,False,False,False,True,Lobo inferior direito,3.3
 report_74,False,False,False,False,False,Lobo inferior direito,5.0
 report_75,False,False,False,False,False,Outros,False
-report_76,False,False,False,False,False,False,8.5
+report_76,False,False,False,False,False,False,8.0
 report_77,False,False,False,False,False,Lobo inferior esquerdo,8.0
 report_78,False,False,False,False,True,Lobo superior esquerdo,4.5
-report_79,False,False,False,False,True,Lobo superior esquerdo,3.4
+report_79,False,False,False,False,True,Lobo superior esquerdo,3.2
 report_80,False,False,False,False,True,Lobo inferior esquerdo,5.0
-report_81,False,False,False,False,True,Lobo inferior direito,6.9
+report_81,False,False,False,False,True,Lobo inferior direito,6.4
 report_82,False,False,False,False,False,Lobo médio direito,3.0
 report_83,False,False,False,False,True,Lobo inferior direito,3.0
-report_84,False,False,False,False,False,Lobo superior esquerdo,15.1
+report_84,False,False,False,False,False,Lobo superior esquerdo,13.1
 report_85,False,False,False,False,False,Lobo inferior esquerdo,5.0
-report_86,False,False,False,False,True,Lobo inferior esquerdo,2.6
-report_87,True,False,False,False,False,Lobo médio direito,9.5
+report_86,False,False,False,False,True,Lobo inferior esquerdo,2.3
+report_87,True,False,False,False,False,Lobo médio direito,9.0
 report_88,False,False,False,False,True,Outros,7.0
-report_89,False,False,False,False,False,Lobo superior esquerdo,3.5
-report_90,True,False,False,False,False,Lobo médio direito,4.0
+report_89,False,False,False,False,False,Lobo superior esquerdo,3.0
+report_90,True,False,False,False,False,Lobo médio direito,3.0
 report_91,False,False,False,False,True,Lobo inferior direito,4.0
 report_92,False,False,False,False,False,False,False
 report_93,False,False,False,False,False,Outros,4.0
-report_94,False,False,False,False,False,Lobo superior esquerdo,7.5
-report_95,False,False,False,False,True,Outros,2.0
+report_94,False,False,False,False,False,Lobo superior esquerdo,6.0
+report_95,False,False,False,False,True,Outros,1.6
 report_96,False,False,False,False,True,Lobo superior esquerdo,4.0
 report_97,False,False,False,False,False,Lobo superior esquerdo,2.5
 report_98,False,False,False,False,True,Lobo inferior esquerdo,4.0
